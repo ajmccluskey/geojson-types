@@ -79,7 +79,7 @@ library
                        RankNTypes,
                        TypeFamilies
   build-depends:       aeson >=0.9,
-                       base >=4.8 && <4.9,
+                       base >=4.8 && <5,
                        bson,
                        bytestring,
                        lens >=4.13,
